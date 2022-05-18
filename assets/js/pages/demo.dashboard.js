@@ -161,7 +161,7 @@
                 name: "Singapore"
             }],
             zoomOnScroll: !1
-        })
+        });
     }
     ,
     e.prototype.init = function() {
